@@ -1,0 +1,24 @@
+# OS / editor
+.DS_Store
+
+# Python
+__pycache__/
+.venv/
+
+# Secrets (keep the example file)
+.env
+.env.*
+!.env.example
+
+# Personal Claude Code notes
+CLAUDE.local.md
+
+# Audio, datasets and model files: never commit these
+*.wav
+*.mp3
+*.zip
+*.pt
+*.ckpt
+data/
+checkpoints/
+mini_ds/
