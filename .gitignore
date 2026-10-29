@@ -22,3 +22,5 @@ CLAUDE.local.md
 data/
 checkpoints/
 mini_ds/
+
+**/node_modules/
